@@ -1,3 +1,16 @@
+tampilan awal LMS
+![image](https://user-images.githubusercontent.com/90789950/169614869-87ed7b92-ecd7-4eb4-abd1-787587cc8839.png)
+![image](https://user-images.githubusercontent.com/90789950/169614912-a3c1c040-508d-47a5-9591-cb8c876dc8e8.png)
+
+tampilan register
+![image](https://user-images.githubusercontent.com/90789950/169615451-2e30280a-a1f0-4c10-96a1-55896a0e9e1f.png)
+
+tampilan masuk
+![image](https://user-images.githubusercontent.com/90789950/169615153-74ed4894-8606-44dc-9feb-b2afa5816240.png)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">

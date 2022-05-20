@@ -8,6 +8,10 @@ tampilan register
 tampilan masuk
 ![image](https://user-images.githubusercontent.com/90789950/169615153-74ed4894-8606-44dc-9feb-b2afa5816240.png)
 
+dashboard
+![image](https://user-images.githubusercontent.com/90789950/169616495-0dc98a35-d5b9-4f15-b7bd-cf2ff73dedcf.png)
+![image](https://user-images.githubusercontent.com/90789950/169616576-b5c7ba2d-9a16-4a4d-b2fd-3409ca942d71.png)
+
 
 
 
